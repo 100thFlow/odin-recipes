@@ -1,2 +1,3 @@
 # odin-recipes
-Odin recipes project
+
+Simple HTML5 recipe list without any CSS
